@@ -12,3 +12,5 @@ lang:
 mazuwa:
 	yum install -y rubygems
 	yum groupinstall "Development Tools"
+	yum groupinstall "開発ツール"
+	yum groupinstall "Web サーバー"
