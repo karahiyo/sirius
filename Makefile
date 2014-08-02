@@ -1,8 +1,8 @@
-MAKE=($shell which make)
+MAKE=$(shell which make)
 
 setup:
 	yum install git
-	${MAKE} lang
+	$(MAKE) lang
 
 
 lang:
