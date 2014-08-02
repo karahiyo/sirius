@@ -6,4 +6,4 @@ setup:
 
 
 lang:
-	yum install perl-devel python-devel ruby-devel lua-devel
+	yum install -y perl-devel python-devel ruby-devel lua-devel
