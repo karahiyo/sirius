@@ -7,3 +7,6 @@ setup:
 
 lang:
 	yum install -y perl-devel python-devel ruby-devel lua-devel
+
+mazuwa:
+	yum install -y rubygems
