@@ -2,6 +2,7 @@ MAKE=($shell which make)
 
 setup:
 	yum install git
+	${MAKE} lang
 
 
 lang:
